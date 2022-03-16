@@ -2,4 +2,5 @@
 
 | Challenge Name|Description|
 |---------------|----------|
-| Array reverse |[Arrayreverse](./according/Arrayreverse.md)|
+| Array reverse |[Arrayreverse](./according/Arrayreverse/Arrayreverse.md)|
+
