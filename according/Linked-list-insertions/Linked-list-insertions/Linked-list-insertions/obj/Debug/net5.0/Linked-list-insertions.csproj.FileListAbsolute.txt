@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.exe
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.deps.json
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.runtimeconfig.json
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.dll
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\bin\Debug\net5.0\Linked-list-insertions.pdb
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.dll
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\refint\Linked-list-insertions.dll
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.pdb
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\Linked-list-insertions.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\Linked-list-insertions\Linked-list-insertions\obj\Debug\net5.0\ref\Linked-list-insertions.dll
