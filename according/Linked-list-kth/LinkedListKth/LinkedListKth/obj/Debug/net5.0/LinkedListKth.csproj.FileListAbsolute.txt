@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.exe
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.deps.json
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.runtimeconfig.json
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.dll
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\bin\Debug\net5.0\LinkedListKth.pdb
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.dll
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\refint\LinkedListKth.dll
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.pdb
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\LinkedListKth.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\LinkedListKth\LinkedListKth\obj\Debug\net5.0\ref\LinkedListKth.dll
