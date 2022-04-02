@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj": {}
+    "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj": {
+    "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj",
+        "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj",
         "projectName": "Linked-list-insertions",
-        "projectPath": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj",
+        "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\obj\\",
+        "outputPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj": {
+    "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj",
+        "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj",
         "projectName": "Test-Linked-list-insertions",
-        "projectPath": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj",
+        "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Test-Linked-list-insertions\\Test-Linked-list-insertions.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Test-Linked-list-insertions\\obj\\",
+        "outputPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Test-Linked-list-insertions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj": {
-                "projectPath": "C:\\Users\\HP\\DotnetProject\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj"
+              "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj": {
+                "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\according\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions\\Linked-list-insertions.csproj"
               }
             }
           }

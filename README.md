@@ -8,4 +8,5 @@
 | Singly Linked List |[SinglyLinkedList](./according/SinglyLinkedList/SinglyLinkedList.md)|
 | Doubly Linked List |[DoublyLinkedList](./according/DoublyLinkedList/doubly-linked-list.md)|
 | Linked list insertions |[LinkedListInsertions](./according/Linked-list-insertions/Linked-list-insertions.md)|
+| Linked list kth |[Linked-list-kth](./according/Linked-list-kth/linked-list-kth.md)|
 
