@@ -9,4 +9,5 @@
 | Doubly Linked List |[DoublyLinkedList](./Challenge/Data-Structure/DoublyLinkedList/doubly-linked-list.md)|
 | Linked list insertions |[LinkedListInsertions](./Challenge/Data-Structure/Linked-list-insertions/Linked-list-insertions.md)|
 | Linked list kth |[Linked-list-kth](./Challenge/Data-Structure/Linked-list-kth/linked-list-kth.md)|
+| Linked list zip |[Linked-list-zip](./Challenge/Algorithm/Linked-list-zip/Linked-list-zip.md)|
 
