@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.exe
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.deps.json
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.runtimeconfig.json
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.dll
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\bin\Debug\net5.0\Linked-list-zip.pdb
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.dll
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\refint\Linked-list-zip.dll
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.pdb
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\Linked-list-zip.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\Linked-list-zip\Linked-list-zip\obj\Debug\net5.0\ref\Linked-list-zip.dll
