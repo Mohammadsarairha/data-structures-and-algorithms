@@ -2,11 +2,11 @@
 
 | Challenge Name|Description|
 |---------------|----------|
-| Array reverse |[Arrayreverse](./according/Arrayreverse/Arrayreverse.md)|
-| Array insert shift |[ArrayInsertShift](./according/Array-insert-shift/Array-insert-shift.md)|
-| Array binary search |[ArrayBinarySearch](./according/Array-binary-search/array-binary-search.md)|
-| Singly Linked List |[SinglyLinkedList](./according/SinglyLinkedList/SinglyLinkedList.md)|
-| Doubly Linked List |[DoublyLinkedList](./according/DoublyLinkedList/doubly-linked-list.md)|
-| Linked list insertions |[LinkedListInsertions](./according/Linked-list-insertions/Linked-list-insertions.md)|
-| Linked list kth |[Linked-list-kth](./according/Linked-list-kth/linked-list-kth.md)|
+| Array reverse |[Arrayreverse](./Challenge/Data-Structure/Arrayreverse/Arrayreverse.md)|
+| Array insert shift |[ArrayInsertShift](./Challenge/Data-Structure/Array-insert-shift/Array-insert-shift.md)|
+| Array binary search |[ArrayBinarySearch](./Challenge/Data-Structure/Array-binary-search/array-binary-search.md)|
+| Singly Linked List |[SinglyLinkedList](./Challenge/Data-Structure/SinglyLinkedList/SinglyLinkedList.md)|
+| Doubly Linked List |[DoublyLinkedList](./Challenge/Data-Structure/DoublyLinkedList/doubly-linked-list.md)|
+| Linked list insertions |[LinkedListInsertions](./Challenge/Data-Structure/Linked-list-insertions/Linked-list-insertions.md)|
+| Linked list kth |[Linked-list-kth](./Challenge/Data-Structure/Linked-list-kth/linked-list-kth.md)|
 
