@@ -8,7 +8,7 @@
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 | Method    | Time Complexity |Space Complexity|
 |-----------|-----------------|----------------|
-| ZipLists| O(n)            | O(1)           |
+| ZipLists  | O(n)            | O(1)           |
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 - ZipLists Function
