@@ -178,6 +178,6 @@ public object Peek()
 
 ## Code Reference
 
-| Stack Project |[Stack Project](./Stack-Queue/Stack-Queue/Stack.cs)|
+[Stack Project](./Stack-Queue/Stack-Queue/Stack.cs)
 
-| Queue Project |[Queue Project](./Stack-Queue/Stack-Queue/Queue.cs)|
+[Queue Project](./Stack-Queue/Stack-Queue/Queue.cs)
