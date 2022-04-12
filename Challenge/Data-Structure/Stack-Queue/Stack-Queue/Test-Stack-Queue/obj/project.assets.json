@@ -5938,11 +5938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Test-Stack-Queue\\Test-Stack-Queue.csproj",
+      "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Test-Stack-Queue\\Test-Stack-Queue.csproj",
       "projectName": "Test-Stack-Queue",
-      "projectPath": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Test-Stack-Queue\\Test-Stack-Queue.csproj",
+      "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Test-Stack-Queue\\Test-Stack-Queue.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Test-Stack-Queue\\obj\\",
+      "outputPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Test-Stack-Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5959,8 +5959,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj": {
-              "projectPath": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj"
+            "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj": {
+              "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj"
             }
           }
         }

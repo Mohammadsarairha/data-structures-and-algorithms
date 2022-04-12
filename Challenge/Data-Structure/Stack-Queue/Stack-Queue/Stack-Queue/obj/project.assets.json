@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj",
+      "projectUniqueName": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj",
       "projectName": "Stack-Queue",
-      "projectPath": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj",
+      "projectPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Stack-Queue\\Stack-Queue.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\DotnetProject\\Stack-Queue\\Stack-Queue\\obj\\",
+      "outputPath": "\\\\wsl$\\Ubuntu\\home\\mohammad\\Github-projects\\data-structures-and-algorithms\\Challenge\\Data-Structure\\Stack-Queue\\Stack-Queue\\Stack-Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
