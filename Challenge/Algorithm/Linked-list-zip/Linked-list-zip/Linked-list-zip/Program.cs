@@ -11,7 +11,6 @@ namespace Linked_list_zip
             list.Append(3);
             list.Append(2);
 
-
           LinkedList list1 = new LinkedList();
             list1.Append(5);
             list1.Append(9);
