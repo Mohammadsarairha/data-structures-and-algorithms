@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,13 +15,18 @@ namespace Linked_list_zip
         {
             Node current1 = list1.head;
             Node current2 = list2.head;
-
+            Node lastNode = list1.head;
             while (current2 != null)
             {
-                if (current1 == null)
+                if (lastNode == null)
                 {
-                    list1.Append(current2.Value);
                     current2 = current2.Next;
+                }
+
+                if (current1.Next == null)
+                {
+                    current1.Next = current2;
+                    lastNode = null;
                 }
                 else
                 {
