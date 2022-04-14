@@ -8,7 +8,7 @@
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 | Method    | Time Complexity |Space Complexity|
 |-----------|-----------------|----------------|
-| ZipLists| O(n)            | O(1)           |
+| ZipLists  | O(n)            | O(1)           |
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 - ZipLists Function
@@ -16,23 +16,22 @@
 ```C#
 public static LinkedList ZipLists(LinkedList list1, LinkedList list2)
         {
-            LinkedList zipList = new LinkedList();
-            Node current = list1.head;
+            Node current1 = list1.head;
             Node current2 = list2.head;
-            while (current != null || current2 != null)
+
+            while (current2 != null)
             {
-                if (current != null)
+                if (current1 == null)
                 {
-                    zipList.Append(current.Value);
-                    current = current.Next;
-                }
-                if (current2 != null)
-                {
-                    zipList.Append(current2.Value);
+                    list1.Append(current2.Value);
                     current2 = current2.Next;
-                }       
+                }
+                else
+                {
+                    current1 = current1.Next;
+                }
             }
-            return zipList;
+            return list1;
         }
 ```
 - Append Function

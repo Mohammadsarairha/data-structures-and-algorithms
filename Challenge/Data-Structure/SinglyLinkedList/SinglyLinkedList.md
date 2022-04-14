@@ -122,10 +122,10 @@ public string Tostring()
 
 ## Singly Linked Test
 
-- [x] Test instantiate an empty linked list
-- [x] Test for insert into the linked list
-- [x] Test the head property will properly point to the first node in the linked list
-- [x] Tset if can properly insert multiple nodes into the linked list
-- [x] Test to return true when finding a value within the linked list that exists
-- [x] Test to return false when searching for a value in the linked list that does not exist
-- [x] Test to return a collection of all the values that exist in the linked list
+- [x] Test push onto a stack
+- [x] Test push multiple values onto a stack
+- [x] Test pop off the stack
+- [x] Test empty a stack after multiple pops
+- [x] Test peek the top item on the stack
+- [x] Test to instantiate an empty stack
+- [x] Test to peek from empty stack
