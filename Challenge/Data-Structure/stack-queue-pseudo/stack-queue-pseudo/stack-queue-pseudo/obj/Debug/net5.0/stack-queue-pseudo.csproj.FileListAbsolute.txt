@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.exe
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.deps.json
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.runtimeconfig.json
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.dll
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net5.0\stack-queue-pseudo.pdb
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.dll
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\refint\stack-queue-pseudo.dll
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.pdb
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\stack-queue-pseudo.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net5.0\ref\stack-queue-pseudo.dll
