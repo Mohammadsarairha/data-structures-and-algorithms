@@ -11,3 +11,4 @@
 | Linked list kth |[Linked-list-kth](./Challenge/Data-Structure/Linked-list-kth/linked-list-kth.md)|
 | Linked list zip |[Linked-list-zip](./Challenge/Algorithm/Linked-list-zip/Linked-list-zip.md)|
 | Stack and Queue |[Stack and Queue](./Challenge/Data-Structure/Stack-Queue/Stack-Queue.md)|
+| Queue Pseudo |[Queue Pseudo](./Challenge/Data-Structure/stack-queue-pseudo/stack-queue-pseudo.md)|
