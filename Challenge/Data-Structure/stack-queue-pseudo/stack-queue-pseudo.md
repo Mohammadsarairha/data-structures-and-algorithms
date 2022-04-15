@@ -3,9 +3,6 @@
 To enqueue an item into the queue, first move all elements from the first stack to the second stack, push the item into the first stack, and finally move all elements back to the first stack.
 using using a first-in, first-out approach.
 To dequeue an item from the queue, return the top item from the first stack , Using using a first-in, first-out approach.
-## Whiteboard Process
-<!-- Embedded whiteboard image -->
-![Linked list zip](./img/Linked-List-Zip.jpg)
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 | Method    | Time Complexity |Space Complexity|
