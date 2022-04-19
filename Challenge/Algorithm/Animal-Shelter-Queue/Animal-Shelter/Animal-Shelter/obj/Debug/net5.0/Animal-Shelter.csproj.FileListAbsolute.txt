@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.exe
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.deps.json
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.runtimeconfig.json
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.dll
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\bin\Debug\net5.0\Animal-Shelter.pdb
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.dll
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\refint\Animal-Shelter.dll
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.pdb
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\Animal-Shelter.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\Animal-Shelter\Animal-Shelter\obj\Debug\net5.0\ref\Animal-Shelter.dll
