@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.exe
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.deps.json
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.runtimeconfig.json
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.dll
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\bin\Debug\net5.0\Stack-queue-brackets.pdb
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.dll
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\refint\Stack-queue-brackets.dll
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.pdb
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\Stack-queue-brackets.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\Stack-queue-brackets\Stack-queue-brackets\obj\Debug\net5.0\ref\Stack-queue-brackets.dll
