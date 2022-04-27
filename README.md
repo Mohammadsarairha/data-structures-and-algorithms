@@ -16,4 +16,4 @@
 | Stack Queue Brackets |[Stack Queue Brackets](./Challenge/Algorithm/Stack-Queue-Brackets/Stack-Queue-Brackets.md)|
 | Binary Tree|[Binary Tree](./Challenge/Data-Structure/Binary-Tree/BinaryTree.md)|
 |Tree Max|[Tree Max](./Challenge/Data-Structure/Binary-Tree-Max/Tree-Max.md)|
-|Tree Breadth First|[Tree Breadth First](./Challenge/Data-Structure/Binary-Tree-Max/Tree-Max.md)|
+|Tree Breadth First|[Tree Breadth First](./Challenge/Algorithm/Tree-Breadth-First/Tree-Breadth-First.md)|
