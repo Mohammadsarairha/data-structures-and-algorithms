@@ -12,5 +12,6 @@
 | Linked list zip |[Linked-list-zip](./Challenge/Algorithm/Linked-list-zip/Linked-list-zip.md)|
 | Stack and Queue |[Stack and Queue](./Challenge/Data-Structure/Stack-Queue/Stack-Queue.md)|
 | Queue Pseudo |[Queue Pseudo](./Challenge/Data-Structure/stack-queue-pseudo/stack-queue-pseudo.md)|
-|  Animal Shelter |[Animal Shelter](./Challenge/Algorithm/Animal-Shelter-Queue/Animal-Shelter-Queue.md)|
-|  Stack Queue Brackets |[Stack Queue Brackets](./Challenge/Algorithm/Stack-Queue-Brackets/Stack-Queue-Brackets.md)|
+| Animal Shelter |[Animal Shelter](./Challenge/Algorithm/Animal-Shelter-Queue/Animal-Shelter-Queue.md)|
+| Stack Queue Brackets |[Stack Queue Brackets](./Challenge/Algorithm/Stack-Queue-Brackets/Stack-Queue-Brackets.md)|
+| Binary Tree|[Binary Tree](./Challenge/Data-Structure/Binary-Tree/BinaryTree.md)|
