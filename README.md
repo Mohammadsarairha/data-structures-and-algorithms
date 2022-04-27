@@ -15,3 +15,4 @@
 | Animal Shelter |[Animal Shelter](./Challenge/Algorithm/Animal-Shelter-Queue/Animal-Shelter-Queue.md)|
 | Stack Queue Brackets |[Stack Queue Brackets](./Challenge/Algorithm/Stack-Queue-Brackets/Stack-Queue-Brackets.md)|
 | Binary Tree|[Binary Tree](./Challenge/Data-Structure/Binary-Tree/BinaryTree.md)|
+|Tree Max|[Tree Max](./Challenge/Data-Structure/Binary-Tree-Max/Tree-Max.md)|
