@@ -16,89 +16,69 @@ namespace Trees
         }
 
         //Pre-order: root >> left >> right
-
         public List<int> PreOrder(Node node)
         {
-            List<int> result = new List<int>();
-
             if (node == null)
-            {
-                return null;
-            }
+                throw new Exception("Tree is empty!");
 
-            Stack<Node> nodeStack = new Stack<Node>();
-
-            nodeStack.Push(root);
-
-            while (nodeStack.Count > 0)
-            {
-                Node mynode = nodeStack.Peek();
-
-                result.Add(mynode.value);
-
-                nodeStack.Pop();
-
-                if (mynode.right != null)
-                {
-                    nodeStack.Push(mynode.right);
-                }
-                if (mynode.left != null)
-                {
-                    nodeStack.Push(mynode.left);
-                }
-            }
-
-            return result;
+            List<int> list = new List<int>();
+            return GetPreOrder(list,node);
         }
-
-        //In-order: left >> root >> right
-        public List<int> InOrder(Node node)
+        private List<int> GetPreOrder(List<int> list, Node node)
         {
-            List<int> result = new List<int>();
-
-            if (root == null)
-            {
-                return null;
-            }
-            Stack<Node> s = new Stack<Node>();
-            Node curr = root;
-
-            while (curr != null || s.Count > 0)
-            {
-                while (curr != null)
-                {
-                    s.Push(curr);
-                    curr = curr.left;
-                }
-                curr = s.Pop();
-
-                result.Add(curr.value);
-                curr = curr.right;
-            }
-            return result;
-        }
-
-        //Post-order: left >> right >> root
-        public void PostOrder(Node node)
-        {
-            if (node == null)
-            {
-                return;
-            }
+            list.Add(node.value);
 
             if (node.left != null)
-            {
-                PreOrder(node.left);
-            }
+                GetPreOrder(list, node.left);
+            if (node.right != null)
+                GetPreOrder(list, node.right);
+
+            return list;
+        }
+        public List<int> InOrder(Node node)
+        {
+            if (node == null)
+                throw new Exception("Tree is empty!");
+
+            List<int> list = new List<int>();
+            
+            return GetInOrder(list, node);
+        }
+        //In-order: left >> root >> right
+        private List<int> GetInOrder(List<int> list , Node node)
+        {
+            if (node.left != null)
+                GetInOrder(list, node.left);
+
+            list.Add(node.value);
 
             if (node.right != null)
-            {
-                PreOrder(node.right);
-            }
+                GetInOrder(list, node.right);
 
-            Console.Write(node.value + " ");
-
+            return list;
         }
+        //Post-order: left >> right >> root
+        public List<int> PostOrder(Node node)
+        {
+            if (node == null)
+                throw new Exception("Tree is empty!");
 
+            List<int> list = new List<int>();
+
+            return GetPostOrder(list, node);
+        }
+        //In-order: left >> root >> right
+        private List<int> GetPostOrder(List<int> list, Node node)
+        {
+            if (node.left != null)
+                GetPostOrder(list, node.left);
+
+            if (node.right != null)
+                GetPostOrder(list, node.right);
+
+            list.Add(node.value);
+
+            return list;
+        }
     }
 }
