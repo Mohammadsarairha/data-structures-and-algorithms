@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.exe
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.deps.json
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.runtimeconfig.json
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.dll
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\bin\Debug\net5.0\FizzBuzzTree.pdb
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.dll
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\refint\FizzBuzzTree.dll
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.pdb
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\FizzBuzzTree.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\FizzBuzzTree\FizzBuzzTree\obj\Debug\net5.0\ref\FizzBuzzTree.dll
