@@ -18,3 +18,4 @@
 |Tree Max|[Tree Max](./Challenge/Data-Structure/Binary-Tree-Max/Tree-Max.md)|
 |Tree Breadth First|[Tree Breadth First](./Challenge/Algorithm/Tree-Breadth-First/Tree-Breadth-First.md)|
 |Tree Fizz Buzz|[Tree Fizz Buzz](./Challenge/Algorithm/FizzBuzz-Tree/FizzBuzzTree.md)|
+|Insertion Sort|[Insertion Sort](./Challenge/Algorithm/Insertion-Sort/BLOG.md)|
