@@ -22,7 +22,7 @@ Insertion sort : is a simple sorting algorithm that works similar to the way you
 
 ## Trace
 
-Sample Array: [8,4,23,42,16,15]
+Sample Array: [12, 11, 13, 5, 6]
 
 ![InsertionSort](./img/InsertionSort.jpg)
 
