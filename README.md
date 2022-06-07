@@ -20,3 +20,4 @@
 |Tree Fizz Buzz|[Tree Fizz Buzz](./Challenge/Algorithm/FizzBuzz-Tree/FizzBuzzTree.md)|
 |Insertion Sort|[Insertion Sort](./Challenge/Algorithm/Insertion-Sort/BLOG.md)|
 |Quick Sort|[Quick Sort](./Challenge/Algorithm/Quick-Sort/Blog.md)|
+|Hash Table|[Hash Table](./Challenge/Data-Structure/Hash-Table/HashTable.md)|
