@@ -1,0 +1,16 @@
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.exe
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.deps.json
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.runtimeconfig.json
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.runtimeconfig.dev.json
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.dll
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\bin\Debug\net5.0\RepeatedWord.pdb
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.csproj.AssemblyReference.cache
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.AssemblyInfoInputs.cache
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.AssemblyInfo.cs
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.csproj.CoreCompileInputs.cache
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.dll
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\refint\RepeatedWord.dll
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.pdb
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\RepeatedWord.genruntimeconfig.cache
+C:\Users\HP\DotnetProject\RepeatedWord\RepeatedWord\obj\Debug\net5.0\ref\RepeatedWord.dll
