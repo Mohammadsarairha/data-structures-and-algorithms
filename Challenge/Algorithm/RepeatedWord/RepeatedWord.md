@@ -20,6 +20,10 @@ To find the duplicate words from the string, we first split the string into word
 |-----------|-----------------|----------------|
 | Repeated       | O(n^2)  | O(1)         |
 
+## Whiteboard Process
+
+![RepeatedWord](./img/RepeatedWord.jpg)
+
 ## Solution
 
 ```C#
