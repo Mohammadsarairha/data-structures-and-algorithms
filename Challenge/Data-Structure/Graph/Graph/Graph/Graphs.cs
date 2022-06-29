@@ -78,5 +78,36 @@ namespace Graph
             }
             return result;
         }
+
+        public List<Node> BreadthFirst(Node start)
+        {
+            List<Node> result = new List<Node>();
+            HashSet<Node> visited = new HashSet<Node>();
+
+            if (start == null)
+            {
+                throw new NullReferenceException("Cannot be null");
+            }
+
+            Queue queue = new Queue();
+            queue.Enqueue(start);
+            visited.Add(start);
+
+            while (queue.Count > 0 )
+            {
+                Node tempNode = (Node)queue.Dequeue();
+                result.Add(tempNode);
+
+                foreach (var neighbor in tempNode.neighbors)
+                {
+                    if (!visited.Contains(neighbor.node))
+                    {
+                        queue.Enqueue(neighbor.node);
+                        visited.Add(neighbor.node);
+                    }
+                }
+            }
+            return result;
+        }
     }
 }
