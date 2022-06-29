@@ -58,5 +58,24 @@ namespace GraphTest
             Graphs graph = new Graphs();
             Assert.Equal(0, graph.getSize());
         }
+
+        [Fact]
+        public void test_dfs()
+        {
+            Graphs graph = new Graphs();
+            Node one = graph.addNode(1);
+            Node two = graph.addNode(2);
+            Node three = graph.addNode(2);
+
+            one.addNeighbor(two);
+            one.addNeighbor(three);
+
+            List<Node> expected = new List<Node>();
+            expected.Add(one);
+            expected.Add(two);
+            expected.Add(three);
+
+            Assert.Equal(expected, graph.BreadthFirst(one));
+        }
     }
 }
