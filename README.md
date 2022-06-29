@@ -27,3 +27,4 @@
 |Graph|[Graph](./Challenge/Data-Structure/Graph/Graph.md)|
 |Breadth First Search (BFS)|[Breadth First Search (BFS)](./Challenge/Data-Structure/Graph/Breadth-First.md)|
 |Depth First Search (DFS)|[Depth First Search (DFS)](./Challenge/Data-Structure/Graph/Depth-First.md)|
+|Business Trip|[Business Trip](./Challenge/Data-Structure/Graph/Business-trip.md)|
