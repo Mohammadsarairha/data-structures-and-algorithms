@@ -24,3 +24,4 @@
 |Repeated Word|[Repeated Word](./Challenge/Algorithm/RepeatedWord/RepeatedWord.md)|
 |Tree Intersection|[Tree Intersection](./Challenge/Algorithm/Tree-intersection/tree-intersection.md)|
 |Hashmap left Join|[Hashmap left Join](./Challenge/Algorithm/Hashmap-LeftJoin/hashmap-left-join.md)|
+|Graph|[Graph](./Challenge/Data-Structure/Graph/Graph.md)|
