@@ -1,4 +1,4 @@
-# Depth First Traversal
+# Breadth First Traversal
 
 ## Challenge
 Traversal means visiting all the nodes of a graph. Breadth First Traversal or Breadth First Search is a recursive algorithm for searching all the vertices of a graph or tree data structure.
