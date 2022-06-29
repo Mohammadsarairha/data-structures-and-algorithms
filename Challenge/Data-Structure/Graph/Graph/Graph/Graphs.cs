@@ -52,5 +52,31 @@ namespace Graph
         {
             return this.vertices.Count();
         }
+
+        public List<Node> Depthfirst(Node start)
+        {
+            List<Node> result = new List<Node>();
+            HashSet<Node> visited = new HashSet<Node>();
+
+            Stack stack = new Stack();
+            stack.Push(start);
+            visited.Add(start);
+
+            while (stack.Count > 0)
+            {
+                Node tempNode = (Node)stack.Pop();
+                result.Add(tempNode);
+
+                foreach(var neighbor in tempNode.neighbors)
+                {
+                    if (!visited.Contains(neighbor.node))
+                    {
+                        stack.Push(neighbor.node);
+                        visited.Add(neighbor.node);
+                    }
+                }
+            }
+            return result;
+        }
     }
 }

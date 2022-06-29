@@ -25,3 +25,4 @@
 |Tree Intersection|[Tree Intersection](./Challenge/Algorithm/Tree-intersection/tree-intersection.md)|
 |Hashmap left Join|[Hashmap left Join](./Challenge/Algorithm/Hashmap-LeftJoin/hashmap-left-join.md)|
 |Graph|[Graph](./Challenge/Data-Structure/Graph/Graph.md)|
+|Depth First Search (DFS)|[Depth First Search (DFS)](./Challenge/Data-Structure/Graph/Depth-First.md)|
